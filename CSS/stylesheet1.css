@@ -1,0 +1,16 @@
+body {
+    font-family:corbel;
+    width:90%;
+    background-color:#000;
+}
+
+h1, h2, h3 {
+    font-family:arial;
+}
+
+header{
+    position:fixed;
+    background-color:#ccc;
+    font-family:Abril Fatface;
+    
+@import url(http://fonts.googleapis.com/css?family=Abril+Fatface);
